@@ -13,7 +13,7 @@
 
 ------
 
-### Чек-лист готовности к домашнему заданию
+### Чеклист готовности к домашнему заданию
 
 1. Доступ к интернету.
 2. Наличие личного Google Диска.
@@ -22,11 +22,11 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию файлов [«Домашнее задание_SCADA-система»](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) и [«Чек-лист к домашнему заданию»](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing) на свой Google Диск.
+1. Сделайте копию файлов [«Домашнее задание_SCADA-система»](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) и [«Чеклист к домашнему заданию»](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing) на свой Google Диск.
 1. В названии файлов добавьте ваши фамилию и имя.
 1. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в интернете, у кого есть ссылка». Инструкция «Как предоставить доступ к файлам и папкам на Google Диске» [по ссылке](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 1. В шаблоне [«Домашнее задание_SCADA-система»](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) расставьте органы управления для каждой единицы оборудования. Обозначьте связи органов управления с оборудованием.
-1. В шаблоне [«Чек-лист к домашнему заданию»](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing): 
+1. В шаблоне [«Чеклист к домашнему заданию»](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing): 
  * укажите выбранную архитектуру;
  * укажите возможные риски при работе SCADA;
  * предложите меры по предотвращеннию выявленных рисков.
@@ -45,7 +45,7 @@
 ### Шаблоны для выполнения задания
 
 1. [Домашнее задание_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing).
-2. [Чек-лист к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing).
+2. [Чеклист к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing).
 
 ------
 

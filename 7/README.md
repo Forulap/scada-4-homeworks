@@ -11,7 +11,7 @@ AVEVA Wonderware — лидер по разработке программног
 
 ------
 
-### Чек-лист готовности к домашнему заданию
+### Чеклист готовности к домашнему заданию
 
 1. Для корректной установки AVEVA Edge нужно установить [последнюю актуальную версию .NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0). Подробную информацию можно найти в [инструкции](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing).
 2. Установите программу для проектирования SCADA AVEVA Edge. Дистрибутив доступен по [ссылке](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing). Инструкцию по установке можно найти [здесь](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing).
@@ -19,7 +19,7 @@ AVEVA Wonderware — лидер по разработке программног
 ------
 
 ### Инструкция к заданию
-1. Выполните установку программных инструментов из файла «Чек-лист готовности к домашнему заданию».
+1. Выполните установку программных инструментов из файла «Чеклист готовности к домашнему заданию».
 2. Сделайте копию файла [«Шаблон для домашнего задания»](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing) на свой Google Диск.
 3. В названии файла введите ваши фамилию и имя.
 4. Зайдите в «Настройки доступа» скопированного шаблона и выберите доступ «Просматривать могут все в интернете, у кого есть ссылка». Инструкция «Как предоставить доступ к файлам и папкам на Google Диске» [по ссылке](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
