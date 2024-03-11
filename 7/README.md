@@ -13,14 +13,14 @@ AVEVA Wonderware является одним из лидеров по разра
 
 ### Чеклист готовности к домашнему заданию
 
-1. Для корректной установки AVEVA Edge необходимо установить [последнюю актуальную версию .NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0). Более подробную информацию можно найти в [инструкции](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing).
-2. Установите программу для проектирования SCADA AVEVA Edge. Дистрибутив доступен по [ссылке](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing). Инструкцию по установке можно найти [здесь](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing).
+1. Для корректной установки AVEVA Edge необходимо установить [последнюю актуальную версию .NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0). Более подробную информацию можно найти в [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/3826/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_AVEVA_Edge.pptx).
+2. Установите программу для проектирования SCADA AVEVA Edge. Дистрибутив доступен по [ссылке](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing). Инструкцию по установке можно найти [здесь](https://u.netology.ru/backend/uploads/lms/content_assets/file/3826/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_AVEVA_Edge.pptx).
 
 ------
 
 ### Инструкция к заданию
 1. Выполните установку необходимых программных инструментов из **Чеклиста готовности к домашнему заданию**.
-2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing) себе на Google Диск.
+2. Сделайте копию [Шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/3827/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__AVEVA_Edge__InTouch___-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диск.
 3. В названии файла введите вашу фамилию и имя.
 4. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 5. Скопируйте текст задания в свой документ.
@@ -37,9 +37,9 @@ AVEVA Wonderware является одним из лидеров по разра
 2. Google.Документы
 3. [.NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
 4. [AVEVA Edge](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing)
-5. [Инструкция по установке AVEVA Edge](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing)
-6. [Технические задания](https://docs.google.com/document/d/1OwAmytIhG9SEL_1RuUEdrxpsRdJL4gyFxnIiDhwxrU0/edit?usp=sharing)
-7. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing)
+5. [Инструкция по установке AVEVA Edge](https://u.netology.ru/backend/uploads/lms/content_assets/file/3826/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_AVEVA_Edge.pptx)
+6. [Технические задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/3828/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_AVEVA_Edge.docx)
+7. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/3827/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__AVEVA_Edge__InTouch___-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 ------
 
@@ -50,7 +50,7 @@ AVEVA Wonderware является одним из лидеров по разра
 - разработка проекта автоматизации сбора данных со станков ЧПУ
 - разработка проекта автоматизации распределения запасных частей на складе.
 
-Технические задания, в которых прописаны требования к проекту и процесс его создания находятся по [этой ссылке](https://docs.google.com/document/d/1OwAmytIhG9SEL_1RuUEdrxpsRdJL4gyFxnIiDhwxrU0/edit?usp=sharing).
+Технические задания, в которых прописаны требования к проекту и процесс его создания находятся по [этой ссылке](https://u.netology.ru/backend/uploads/lms/content_assets/file/3828/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_AVEVA_Edge.docx).
 
 Результатом выполнения данного задания будет проект, разработанный в программной среде AVEVA Edge в соответствии с выбранным техническим заданием.
 
