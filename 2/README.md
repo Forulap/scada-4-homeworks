@@ -18,7 +18,7 @@
 -----
 
 ### Инструкция к заданию
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1X7oGpqV1liW_kXRb9Mk8ZsrcQD8rnx7cphRToOjyznw/edit?usp=sharing) себе на Google Диске.
+1. Сделайте копию [Шаблона для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/6099/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__HMI._%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%BE-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx) себе на Google Диске.
 2. В названии файла введите вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 4. Скопируйте текст задания в свой документ.
@@ -33,10 +33,10 @@
 
 1. [Конфигуратор СП300](https://owen.ru/license-file?f=https://www.owen.ru/upl_files/PO/SP300_project_V2.D3k-5.zip)
 1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
-1. [Документ на закупку для задания 1](https://docs.google.com/spreadsheets/d/1Ih_-mCGzfW3cF6gGTHU2iP1vPlzDokyZxKrSygQIYl4/edit?usp=sharing)
-1. [Инструкция по пользованию сайтами постащиков оборудования HMI](https://docs.google.com/presentation/d/1F4vQHjKqPY_StbscL3Xb_Y1u2nsXxXmnnMarEq8DFxw/edit?usp=sharing)
-1. [Технические задания для задания 2](https://docs.google.com/document/d/1L1uxjRuVJC4v2dyChpJliah0JY6sr6H47sSHIdrdt5U/edit?usp=sharing)
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1X7oGpqV1liW_kXRb9Mk8ZsrcQD8rnx7cphRToOjyznw/edit?usp=sharing)
+1. [Документ на закупку для задания 1](https://u.netology.ru/backend/uploads/lms/content_assets/file/6100/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D1%83.xlsx)
+1. [Инструкция по пользованию сайтами постащиков оборудования HMI](https://u.netology.ru/backend/uploads/lms/content_assets/file/6101/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D1%81%D0%B0%D0%B9%D1%82%D0%B0%D0%BC%D0%B8_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_HMI.pptx)
+1. [Технические задания для задания 2](https://u.netology.ru/backend/uploads/lms/content_assets/file/6102/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B2%D1%83%D1%85_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2.docx)
+1. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/6099/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__HMI._%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%BE-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 -----
 
@@ -49,9 +49,9 @@
 - 5 графических терминалов ALLEN BRADLEY серии PanelView5500 (*управление постами*, диагональ 10,4 дюймов, 1 Гб RAM)
 - 1 панель OMRON любой серии на выбор студента (*управление установкой;* диагональ 10,4 дюймов, разрешение экрана - минимум 1024х768, объём программы - 30 Мб).
 
-Подберите необходимое оборудование, соответствующее требованиям. Заказные номера внесите в [документ на закупку](https://docs.google.com/spreadsheets/d/1Ih_-mCGzfW3cF6gGTHU2iP1vPlzDokyZxKrSygQIYl4/edit?usp=sharing), предварительно сделав его копию себе на диск.
+Подберите необходимое оборудование, соответствующее требованиям. Заказные номера внесите в [документ на закупку](https://u.netology.ru/backend/uploads/lms/content_assets/file/6100/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D1%83.xlsx), предварительно сделав его копию себе на диск.
 
-Общую инструкцию по пользованию сайтами основных постащиков оборудования HMI вы сможете найти по [ссылке](https://docs.google.com/presentation/d/1F4vQHjKqPY_StbscL3Xb_Y1u2nsXxXmnnMarEq8DFxw/edit?usp=sharing). 
+Общую инструкцию по пользованию сайтами основных постащиков оборудования HMI вы сможете найти по [ссылке](https://u.netology.ru/backend/uploads/lms/content_assets/file/6101/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E_%D1%81%D0%B0%D0%B9%D1%82%D0%B0%D0%BC%D0%B8_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9_HMI.pptx). 
 
 2.* (необязательное задание) Спроектируйте схему топологии сети подобранных ранее панелей в любом удобном ПО, например [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer) или MS Visio). Также добавьте в топологию сети 3 PLC-контроллера (SIEMENS, ALLEN BRADLEY, OMRON). Каждый из этих контроллеров связан с системой HMI по сети Ethernet / Profinet своей фирмы-производителя.
 
@@ -73,7 +73,7 @@
 - список ошибок (отображение ошибок, указанных в ТЗ) 
 - дополнительно 1-2 экрана HMI могут быть спроектированы на усмотрение студента.
 
-Технические задания можно найти по [этой ссылке](https://docs.google.com/document/d/1L1uxjRuVJC4v2dyChpJliah0JY6sr6H47sSHIdrdt5U/edit?usp=sharing).
+Технические задания можно найти по [этой ссылке](https://u.netology.ru/backend/uploads/lms/content_assets/file/6102/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B2%D1%83%D1%85_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2.docx).
 
 Результатом выполнения данного задания будет проект, разработанный в программе Конфигуратор СП300, соответствующий техническому заданию. 
 
