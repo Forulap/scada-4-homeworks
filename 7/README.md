@@ -14,7 +14,7 @@ AVEVA Wonderware является одним из лидеров по разра
 ### Чеклист готовности к домашнему заданию
 
 1. Для корректной установки AVEVA Edge необходимо установить [последнюю актуальную версию .NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0). Более подробную информацию можно найти в [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/3826/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_AVEVA_Edge.pptx).
-2. Установите программу для проектирования SCADA AVEVA Edge. Дистрибутив доступен по [ссылке](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing). Инструкцию по установке можно найти [здесь](https://u.netology.ru/backend/uploads/lms/content_assets/file/3826/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_AVEVA_Edge.pptx).
+2. Установите программу для проектирования SCADA AVEVA Edge. Дистрибутив доступен по [ссылке](https://drive.google.com/file/d/1cmLkTcTrtFsmSsJd2u-udrMfhcyOwEIZ/view?usp=drive_link). Инструкцию по установке можно найти [здесь](https://u.netology.ru/backend/uploads/lms/content_assets/file/3826/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_AVEVA_Edge.pptx).
 
 ------
 
@@ -36,7 +36,7 @@ AVEVA Wonderware является одним из лидеров по разра
 1. Google.Диск
 2. Google.Документы
 3. [.NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
-4. [AVEVA Edge](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing)
+4. [AVEVA Edge](https://drive.google.com/file/d/1cmLkTcTrtFsmSsJd2u-udrMfhcyOwEIZ/view?usp=drive_link)
 5. [Инструкция по установке AVEVA Edge](https://u.netology.ru/backend/uploads/lms/content_assets/file/3826/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B5_AVEVA_Edge.pptx)
 6. [Технические задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/3828/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_AVEVA_Edge.docx)
 7. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/3827/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__AVEVA_Edge__InTouch___-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
