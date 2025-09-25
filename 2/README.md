@@ -34,9 +34,9 @@
 
 1. [Конфигуратор СП300](https://owen.ru/license-file?f=https://www.owen.ru/upl_files/PO/SP300_project_V2.D3k-5.zip)
 1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
-1. [Документ на закупку для задания 1](https://docs.google.com/spreadsheets/d/1Ih_-mCGzfW3cF6gGTHU2iP1vPlzDokyZxKrSygQIYl4/edit?usp=sharing)
-1. [Технические задания для задания 2](https://docs.google.com/document/d/1L1uxjRuVJC4v2dyChpJliah0JY6sr6H47sSHIdrdt5U/edit?usp=sharing)
-1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1X7oGpqV1liW_kXRb9Mk8ZsrcQD8rnx7cphRToOjyznw/edit?usp=sharing)
+1. [Документ на закупку для задания 1](https://u.netology.ru/backend/uploads/lms/content_assets/file/6100/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D1%83.xlsx)
+1. [Технические задания для задания 2](https://u.netology.ru/backend/uploads/lms/content_assets/file/6102/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B2%D1%83%D1%85_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2.docx)
+1. [Шаблон для домашнего задания](https://u.netology.ru/backend/uploads/lms/content_assets/file/6099/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F__HMI._%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%BE-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81__-_%D0%A4%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F_%D0%98%D0%BC%D1%8F__%D0%A1%D0%94%D0%95%D0%9B%D0%90%D0%99%D0%A2%D0%95_%D0%9A%D0%9E%D0%9F%D0%98%D0%AE_.docx)
 
 -----
 
